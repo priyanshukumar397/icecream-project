@@ -1,8 +1,10 @@
 # icecream project
 
-Icecream: the fastest way to build your voice-enabled AI hardware stack.
+Icecream: The Fastest way to build your voice-enabled AI hardware stack.
 
-<img width="399" alt="Screenshot 2024-10-20 at 4 00 56 PM" src="https://github.com/user-attachments/assets/f7d5a91f-e7cd-44d8-976d-2ccabe5b8865">
+<img width="399" alt="Screenshot 2024-10-20 at 4 00 56 PM" src="https://github.com/user-attachments/assets/6f7721d9-0acc-4bef-bcc8-e4d8ae0b6ca7">
+
+
 
 ## Overview
 
@@ -25,6 +27,12 @@ Icecream comes prebuilt with firmware and hardware to build your conversational 
 - Speech Processing: PyAudio
 - Video Conferencing: Daily.co API
 - Database: Supabase
+
+## Hardware
+- Raspi Zero
+- Keyestudio 5V ReSpeaker 2-Mic Pi HAT V1.0 Expansion Board For Raspberry Pi 4B +CE Compliant W/B+/3B+/3B
+- Raspberry Pi Zero 2 W (with Quad-core CPU,Bluetooth 4.2,BLE,onboard Antenna,etc.)
+- Stereo 8 Ohm Speakers
 
 ## Quick Start
 
