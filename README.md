@@ -1,5 +1,6 @@
 # Icecream: The Fastest way to build your voice-enabled AI hardware stack.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)&ensp;&ensp;&ensp;
 
 <img width="399" alt="Screenshot 2024-10-20 at 4 00 56 PM" src="https://github.com/user-attachments/assets/6f7721d9-0acc-4bef-bcc8-e4d8ae0b6ca7">
 
@@ -71,3 +72,7 @@ Icecream comes prebuilt with firmware and hardware to build your conversational 
   - `notes-run.py`: Conversation logging system
   - `main.py`: Main python script
 - `requirements.txt`: Python dependencies
+
+## Community and Support
+
+If you have any questions, need assistance with setup, or want to contribute to the project, join the Open Vision Engineering Discord community. You'll find helpful resources, a welcoming community, and a contribution guide to get you started.
