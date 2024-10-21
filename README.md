@@ -8,9 +8,7 @@
 
 ## Overview
 
-Icecream makes hardware one less thing to worry about by offering a seamless infrastructure for Conversational Al, allowing you to focus on what truly matters-creating a great user experience for your users.
-
-Icecream comes prebuilt with firmware and hardware to build your conversational AI Device. Press the Home button to talk to a customizable voice assistant, Icecream also comes with a customizable button to trigger a custom action, this could be taking notes or giving you pro-active feedback as you go about your daily life or anything above and beyond.
+Icecream makes hardware one less thing to worry about by offering a seamless infrastructure for Conversational Al, Icecream comes prebuilt with firmware and hardware to build your conversational AI Device. Press the Home button to talk to a customizable voice assistant, Icecream also comes with a customizable button to trigger a custom action, this could be taking notes or giving you pro-active feedback as you go about your daily life or anything above and beyond.
 
 ## Key Features
 
