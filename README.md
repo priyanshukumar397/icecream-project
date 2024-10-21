@@ -79,5 +79,5 @@ If you have any questions, need assistance with setup, or want to contribute to 
 
 ## License
 
-OpenVision is released under the MIT License, allowing for open collaboration and innovation.
+All projects under Open Vision Engineering are released under the MIT License, allowing for open collaboration and innovation.
 
