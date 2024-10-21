@@ -1,6 +1,5 @@
-# icecream project
+# Icecream: The Fastest way to build your voice-enabled AI hardware stack.
 
-Icecream: The Fastest way to build your voice-enabled AI hardware stack.
 
 <img width="399" alt="Screenshot 2024-10-20 at 4 00 56 PM" src="https://github.com/user-attachments/assets/6f7721d9-0acc-4bef-bcc8-e4d8ae0b6ca7">
 
