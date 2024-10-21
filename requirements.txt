@@ -1,0 +1,12 @@
+aiohttp==3.10.5
+cartesia==1.0.14
+daily==0.2.1
+fastapi==0.115.2
+gpiozero==2.0.1
+loguru==0.7.2
+pipecat==0.3.0
+PyAudio==0.2.14
+python-dotenv==1.0.1
+Requests==2.32.3
+supabase==2.9.1
+uvicorn==0.32.0
