@@ -71,9 +71,3 @@ Icecream comes prebuilt with firmware and hardware to build your conversational 
   - `notes-run.py`: Conversation logging system
   - `main.py`: Main python script
 - `requirements.txt`: Python dependencies
-
-## Acknowledgements
-
-- Daily.co for video conferencing capabilities
-- Pipecat for real-time communication
-- The open-source community for various libraries and tools used in this project
