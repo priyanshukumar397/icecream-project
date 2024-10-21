@@ -75,4 +75,9 @@ Icecream comes prebuilt with firmware and hardware to build your conversational 
 
 ## Community and Support
 
-If you have any questions, need assistance with setup, or want to contribute to the project, join the Open Vision Engineering Discord community. You'll find helpful resources, a welcoming community, and a contribution guide to get you started.
+If you have any questions, need assistance with setup, or want to contribute to the project, join the [Open Vision Engineering](https://discord.gg/j6a4dxjc) community. You'll find helpful resources, a welcoming community, and a contribution guide to get you started.
+
+## License
+
+OpenVision is released under the MIT License, allowing for open collaboration and innovation.
+
