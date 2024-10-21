@@ -33,6 +33,7 @@ Icecream comes prebuilt with firmware and hardware to build your conversational 
 - Keyestudio 5V ReSpeaker 2-Mic Pi HAT V1.0 Expansion Board For Raspberry Pi 4B +CE Compliant W/B+/3B+/3B
 - Raspberry Pi Zero 2 W (with Quad-core CPU,Bluetooth 4.2,BLE,onboard Antenna,etc.)
 - Stereo 8 Ohm Speakers
+- 3D Printed Case
 
 ## Quick Start
 
