@@ -73,7 +73,7 @@ Icecream makes hardware one less thing to worry about by offering a seamless inf
 
 ## Community and Support
 
-If you have any questions, need assistance with setup, or want to contribute to the project, join the [Open Vision Engineering](https://discord.gg/qQKTz3Wj) community. You'll find helpful resources, a welcoming community, and a contribution guide to get you started.
+If you have any questions, need assistance with setup, or want to contribute to the project, join the [Open Vision Engineering](https://discord.gg/MMTz8d4MWr) community. You'll find helpful resources, a welcoming community, and a contribution guide to get you started.
 
 ## License
 
