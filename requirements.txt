@@ -1,4 +1,4 @@
-aiohttp==3.10.11
+aiohttp==3.13.3
 cartesia==1.0.14
 daily==0.2.1
 fastapi==0.115.2
